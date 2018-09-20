@@ -16,4 +16,5 @@ If you had any question do not hesitate to contact :)
 
 Screenshots
 -----------
-.. image:: 2017-07-24.png
+.. image:: img1.jpg
+.. image:: img2.jpg
