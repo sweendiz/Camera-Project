@@ -1,10 +1,9 @@
-Semi-Automatic Object Tracking Annotation In Movie
+Pet tracking Project
 ==================================================
 
 Description
 -----------
-Using this application you can annotate objects (e.g. cars) in video and the \
-application automaticly tracks the annotated objects to exit from the frame
+Allows you to keep track of your pets while you're not home and cant be staring at the camera all day.
 
 Dependacies
 -----------
